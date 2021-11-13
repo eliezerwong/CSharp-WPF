@@ -1,0 +1,57 @@
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants_MarkupCompile.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants_MarkupCompile.lref
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.exe
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.deps.json
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.runtimeconfig.json
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.dll
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.pdb
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.g.resources
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.AssemblyInfo.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.dll
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.pdb
+C:\Users\eliez\source\repos\MIS-3033\homework-2-eliezerwong\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.genruntimeconfig.cache
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.exe
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.deps.json
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.runtimeconfig.json
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.dll
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.pdb
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants_MarkupCompile.cache
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants_MarkupCompile.lref
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.g.resources
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.AssemblyInfo.cs
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.dll
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.pdb
+C:\Users\eliez\source\repos\MIS-3033\work\participation\WpfApp2\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.genruntimeconfig.cache
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.exe
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.deps.json
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.runtimeconfig.json
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.dll
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\bin\Debug\netcoreapp3.1\Vowels and Consonants.pdb
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants_MarkupCompile.cache
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants_MarkupCompile.lref
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.g.resources
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.AssemblyInfo.cs
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.dll
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.pdb
+C:\Users\eliez\source\repos\MIS-3033\work\participation\In class example\Vowel & Consonants\Vowels and Consonants\obj\Debug\netcoreapp3.1\Vowels and Consonants.genruntimeconfig.cache

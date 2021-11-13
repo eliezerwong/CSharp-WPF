@@ -1,0 +1,16 @@
+﻿<Window x:Class="Vowels_and_Consonants.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vowels_and_Consonants"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Red">
+        <TextBox x:Name="txtWord" HorizontalAlignment="Left" Margin="75,246,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="272" Height="178" />
+        <Button x:Name="btn" Content="Enter" HorizontalAlignment="Left" Margin="513,247,0,0" VerticalAlignment="Top" Height="177" Width="230" Click="btn_Click" IsDefault="True" />
+        <ListBox x:Name="Consonants" Margin="75,30,476,264"/>
+        <ListBox x:Name="Vowels" Margin="513,30,34,264"/>
+
+    </Grid>
+</Window>
