@@ -1,0 +1,28 @@
+﻿<Window x:Class="JsonGOT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JsonGOT"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/game-of-thrones-illustration-sean-longmore-1598631176.jpeg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="209,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="129" Height="27" IsEnabled="False"/>
+        <Label Content="Game of Thrones Quote" HorizontalAlignment="Center" Margin="0,326,0,0" VerticalAlignment="Top" FontSize="40">
+            <Label.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </Label.Background>
+        </Label>
+        <Button x:Name="btnGenerate" Content="Generate" HorizontalAlignment="Left" Margin="209,277,0,0" VerticalAlignment="Top" Click="btnGenerate_Click" IsDefault="True"/>
+        <Button x:Name="btnExport" Content="Export" HorizontalAlignment="Left" Margin="538,277,0,0" VerticalAlignment="Top" Click="btnExport_Click"/>
+        <TextBlock x:Name="txbQuote" HorizontalAlignment="Left" Margin="209,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="106" Width="387">
+            <TextBlock.Background>
+                <SolidColorBrush Color="#FFFEFEFE" Opacity="0.7"/>
+            </TextBlock.Background>
+        </TextBlock>
+
+    </Grid>
+</Window>
