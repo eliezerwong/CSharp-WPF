@@ -1,0 +1,21 @@
+﻿<Window x:Class="Problem2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Problem2"
+        mc:Ignorable="d"
+        Title="Big XII Stadiums" Height="450" Width="800" Background="#FFC74A4A" Foreground="#FFF7F1F1">
+    <Grid>
+        <ComboBox x:Name="cboUniversities" Margin="56,78,0,0" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120" SelectionChanged="cboUniversities_SelectionChanged"/>
+        <Label Content="Select a Big XII University:" HorizontalAlignment="Left" Margin="40,47,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="University:" HorizontalAlignment="Left" Margin="31,163,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtUniversity" HorizontalAlignment="Left" Margin="130,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#BFFFFFFF" IsEnabled="False"/>
+        <Label Content="Stadium:" HorizontalAlignment="Left" Margin="31,195,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtStadium" HorizontalAlignment="Left" Margin="130,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#BFFFFFFF" IsEnabled="False"/>
+        <Label Content="Capacity:" HorizontalAlignment="Left" Margin="31,229,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtCapacity" HorizontalAlignment="Left" Margin="130,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#BFFFFFFF" IsEnabled="False"/>
+        <Image x:Name="imgLogo" Margin="297,109,5,-3"/>
+
+    </Grid>
+</Window>
