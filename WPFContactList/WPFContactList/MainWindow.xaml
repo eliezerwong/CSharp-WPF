@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPFContactList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFContactList"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="First Name" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtFName" HorizontalAlignment="Left" Margin="119,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <Button x:Name="btnFilePath" Content="Details" HorizontalAlignment="Left" Margin="28,25,0,0" VerticalAlignment="Top" IsDefault="True" Click="btnFilePath_Click"/>
+        <ListBox x:Name="lstContacts" Margin="334,0,0,0"/>
+        <Label Content="Last Name" HorizontalAlignment="Left" Margin="10,120,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtLName" HorizontalAlignment="Left" Margin="119,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="10,159,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="119,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <Label Content="Photo" HorizontalAlignment="Left" Margin="10,197,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="imgPhoto" HorizontalAlignment="Left" Height="158" Margin="119,205,0,0" VerticalAlignment="Top" Width="160" OpacityMask="Black"/>
+
+    </Grid>
+</Window>
