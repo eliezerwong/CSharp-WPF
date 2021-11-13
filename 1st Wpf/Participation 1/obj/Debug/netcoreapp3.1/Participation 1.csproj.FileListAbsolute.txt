@@ -1,0 +1,19 @@
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\bin\Debug\netcoreapp3.1\Participation 1.exe
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\bin\Debug\netcoreapp3.1\Participation 1.deps.json
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\bin\Debug\netcoreapp3.1\Participation 1.runtimeconfig.json
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\bin\Debug\netcoreapp3.1\Participation 1.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\bin\Debug\netcoreapp3.1\Participation 1.dll
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\bin\Debug\netcoreapp3.1\Participation 1.pdb
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\Participation 1.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\Participation 1_MarkupCompile.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\Participation 1_MarkupCompile.lref
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\Participation 1.g.resources
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\Participation 1.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\Participation 1.AssemblyInfo.cs
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\Participation 1.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\Participation 1.dll
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\Participation 1.pdb
+C:\Users\eliez\source\repos\MIS-3033\homework-1-eliezerwong\WpfApp1\Participation 1\obj\Debug\netcoreapp3.1\Participation 1.genruntimeconfig.cache
